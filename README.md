@@ -53,7 +53,7 @@ CFLAGS="-stdlib=libc++"
 ## 📁 Project Structure
 
 ```
-faceguard/
+Secure-Attendance-System/
 │
 ├── known_faces/          # Store authorized personnel images
 ├── circuit/             # Arduino circuit diagrams
