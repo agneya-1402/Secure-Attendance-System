@@ -33,8 +33,8 @@ The servo motor is connected to:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/agneya-1402/Sesucre-Attendance-System.git
-cd Sesucre-Attendance-System
+git clone https://github.com/agneya-1402/Secure-Attendance-System.git
+cd Secure-Attendance-System
 ```
 
 2. **Create a virtual environment**
