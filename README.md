@@ -121,10 +121,6 @@ Common issues and solutions:
    - Maintain proper distance from camera
    - Check if photo in `known_faces/` is clear
 
-3. **M1 Mac Installation Issues**
-   - Follow M1-specific installation steps
-   - Use Homebrew to install dependencies
-   - Install Python 3.9 or newer
 
 ## 🤝 Contributing
 
